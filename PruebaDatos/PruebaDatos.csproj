@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccessDTC">
+      <HintPath>..\..\..\DllsUAC\DllsUAC\DllsUAC.AccesoDatos\bin\Debug\Oracle.ManagedDataAccessDTC.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\prueba\PruebaNegocios\bin\Debug\PruebaNegocios.dll
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\prueba\PruebaNegocios\bin\Debug\PruebaNegocios.pdb
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.csprojAssemblyReference.cache
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.csproj.CoreCompileInputs.cache
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.dll
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.pdb
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\bin\Debug\PruebaNegocios.dll
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\bin\Debug\PruebaNegocios.pdb
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\bin\Debug\PruebasDa.dll
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\bin\Debug\PruebasDa.pdb
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.csprojAssemblyReference.cache
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.csproj.CoreCompileInputs.cache
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.csproj.CopyComplete
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.dll
+G:\leila\SQLSERVER\VBNET\WEB\WEBCAPAS\MODELOCAPASINDRA\prueba\PruebaNegocios\obj\Debug\PruebaNegocios.pdb

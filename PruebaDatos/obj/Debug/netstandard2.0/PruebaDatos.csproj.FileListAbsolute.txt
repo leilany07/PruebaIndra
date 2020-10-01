@@ -1,0 +1,9 @@
+D:\Proyectos\Prueba\prueba\PruebaDatos\obj\Debug\netstandard2.0\PruebaDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\Prueba\prueba\PruebaDatos\obj\Debug\netstandard2.0\PruebaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Prueba\prueba\PruebaDatos\obj\Debug\netstandard2.0\PruebaDatos.AssemblyInfoInputs.cache
+D:\Proyectos\Prueba\prueba\PruebaDatos\obj\Debug\netstandard2.0\PruebaDatos.AssemblyInfo.cs
+D:\Proyectos\Prueba\prueba\PruebaDatos\bin\Debug\netstandard2.0\PruebaDatos.deps.json
+D:\Proyectos\Prueba\prueba\PruebaDatos\bin\Debug\netstandard2.0\PruebaDatos.dll
+D:\Proyectos\Prueba\prueba\PruebaDatos\bin\Debug\netstandard2.0\PruebaDatos.pdb
+D:\Proyectos\Prueba\prueba\PruebaDatos\obj\Debug\netstandard2.0\PruebaDatos.dll
+D:\Proyectos\Prueba\prueba\PruebaDatos\obj\Debug\netstandard2.0\PruebaDatos.pdb
