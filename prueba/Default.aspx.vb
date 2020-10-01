@@ -26,11 +26,11 @@ Public Class _Default
             Dim user As String
 
             'web service
-            '  dts = WserUsuario.WSlistadoUsuarioNombre(txtUsuario.Text.Trim)
-            ' dtuser = dts.Tables(0)
+            dts = WserUsuario.WSlistadoUsuarioNombre(txtUsuario.Text.Trim)
+            dtuser = dts.Tables(0)
 
             'clase de negocios
-            dtuser = objetoUsua.mostrarUsusarioNombre(txtUsuario.Text.Trim)
+            'dtuser = objetoUsua.mostrarUsusarioNombre(txtUsuario.Text.Trim)
 
             If (dtuser.Rows.Count <= 0) Then
                 txtLimi.Text = ""

@@ -150,7 +150,7 @@
                      
                     <h3> <strong>  <asp:Label ID="lblRes" runat="server" Text=""></asp:Label></strong></h3> 
                      <div class="loginbox-submit">                       
-                        <asp:Button ID="btnConsultarCalc" runat="server" Visible="true"  Text="Consultar Cálculos" CssClass="btn btn-default btn-block" />
+                        <asp:Button ID="btnConsultarCalc" runat="server" Visible="false"  Text="Consultar Cálculos" CssClass="btn btn-default btn-block" />
                     </div>
                 </div>
                 
