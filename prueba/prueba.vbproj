@@ -175,6 +175,7 @@
     <Content Include="frmConsultarInformacion.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="frmPersona.aspx" />
     <Content Include="Global.asax" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -238,6 +239,13 @@
     </Compile>
     <Compile Include="frmConsultarInformacion.aspx.vb">
       <DependentUpon>frmConsultarInformacion.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="frmPersona.aspx.designer.vb">
+      <DependentUpon>frmPersona.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersona.aspx.vb">
+      <DependentUpon>frmPersona.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Global.asax.vb">

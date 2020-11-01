@@ -15,7 +15,7 @@ namespace PruebaDatos
    public class Conexion
     {
 
-        private SqlConnection cone = new SqlConnection("Server=DESKTOP-D6PE8JT\\SQLEXPRESS;DataBase= Prueba;Integrated Security=true");
+        private SqlConnection cone = new SqlConnection("Server=DESKTOP-D6PE8JT\\SQLEXPRESS;DataBase= PruebaNet;Integrated Security=true");
       
 
         public SqlConnection CerrarBaseDatos()
